@@ -420,6 +420,14 @@ section .title::after{
     object-fit: cover;
     border-radius:0%;
     transition: all 0.3s ease;
+
+    
+
+    float: left;
+    width:  260px;
+    height: 160px;
+    background-size: cover;
+    border: 5px solid crimson;
 }
 .teams .carousel .card:hover img{
     border-color: #fff;
