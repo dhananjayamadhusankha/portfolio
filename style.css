@@ -371,8 +371,23 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .php::before{
-    width: 50%;
+.skills-content .right .react::before{
+    width: 70%;
+}
+.skills-content .right .mysql::before{
+    width: 70%;
+}
+.skills-content .right .node::before{
+    width: 80%;
+}
+.skills-content .right .monogdb::before{
+    width: 80%;
+}
+.skills-content .right .mysql::before{
+    width: 70%;
+}
+.skills-content .right .laraval::before{
+    width: 60%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
